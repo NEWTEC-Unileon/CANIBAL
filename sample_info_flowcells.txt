@@ -1,0 +1,6 @@
+N09	barcode17
+N09	barcode22
+N10	barcode18
+N10	barcode19
+N11	barcode20
+N11	barcode21
