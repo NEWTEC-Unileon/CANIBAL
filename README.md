@@ -1,3 +1,7 @@
+## CANIBAL<a name="idlicense"></a>
+
+ CANIBAL (Capture Analysis using Nanopore-Illumina Barcodes And Linkers)
+
 ## LICENSE<a name="idlicense"></a>
 
 CANIBAL is under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (**CC BY-NC-ND 4.0**) License
